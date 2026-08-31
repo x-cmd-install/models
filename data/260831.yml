@@ -1,0 +1,61 @@
+about:
+  description: TUI and CLI for browsing models.dev, benchmarks, coding agents, and statuses for AI providers.
+  license: MIT
+  homepage: https://reyamira.github.io/models/
+  head: 9c9959d
+  archived: false
+  latestVersion: v0.14.1
+  collectedAt: 2026-08-31T06:17:48Z
+timeline:
+  created: 2026-01-08
+  lastCommit: 2026-08-31
+  lastRelease: 2026-08-28
+popularity:
+  star: 503
+  watcher: 4
+  fork: 20
+  release: 46
+  contributor: 4
+  pullRequest: 6
+  issue: 7
+language:
+  Rust: 1666992
+  Astro: 109093
+  TypeScript: 7781
+  Shell: 5726
+  CSS: 2722
+  Nix: 2722
+totalLine: 1795036
+recent:
+  last30d:
+    since: 2026-08-01
+    release: 1
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last90d:
+    since: 2026-06-02
+    release: 7
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last180d:
+    since: 2026-03-04
+    release: 20
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last360d:
+    since: 2025-09-05
+    release: 46
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
