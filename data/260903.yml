@@ -1,11 +1,13 @@
 about:
-  description: TUI and CLI for browsing models.dev, benchmarks, coding agents, and statuses for AI providers.
+  description:
+  |
+    TUI and CLI for browsing models.dev, benchmarks, coding agents, and statuses for AI providers.
   license: MIT
   homepage: https://reyamira.github.io/models/
-  head: f060b8f
+  head: c4d9379
   archived: false
   latestVersion: v0.14.1
-  collectedAt: 2026-09-03T05:13:07Z
+  collectedAt: 2026-09-03T22:36:48Z
 timeline:
   created: 2026-01-08
   lastCommit: 2026-09-03
@@ -25,7 +27,7 @@ language:
   Shell: 5726
   CSS: 2722
   Nix: 2722
-totalLine: 1795036
+totalBytes: 1795036
 recent:
   last30d:
     since: 2026-08-04
