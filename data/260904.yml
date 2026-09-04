@@ -4,10 +4,10 @@ about:
     TUI and CLI for browsing models.dev, benchmarks, coding agents, and statuses for AI providers.
   license: MIT
   homepage: https://reyamira.github.io/models/
-  head: 4e422d2
+  head: af3ffae
   archived: false
   latestVersion: v0.14.1
-  collectedAt: 2026-09-04T20:13:36Z
+  collectedAt: 2026-09-04T20:26:51Z
 timeline:
   created: 2026-01-08
   lastCommit: 2026-09-04
@@ -83,10 +83,10 @@ total:
   openPR: 0
   closedIssue: 7
   openIssue: 0
-  commit: 7284
+  commit: 7285
 ---
 path: /home/runner/.x-repo/github.com/arimxyer/models
-collectedAt: 2026-09-04T20:13:42Z
+collectedAt: 2026-09-04T20:26:57Z
 loc:
   Json:
     code: 71463
