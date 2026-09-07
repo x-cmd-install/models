@@ -2,10 +2,10 @@ about:
   description: "TUI and CLI for browsing models.dev, benchmarks, coding agents, and statuses for AI providers."
   license: MIT
   homepage: https://reyamira.github.io/models/
-  head: 9e71d29
+  head: 3ea6320
   archived: false
   latestVersion: "v0.14.1"
-  collectedAt: 2026-09-07T05:36:56Z
+  collectedAt: 2026-09-07T19:02:45Z
 timeline:
   created: 2026-01-08
   lastCommit: 2026-09-07
@@ -81,13 +81,13 @@ total:
   openPR: 0
   closedIssue: 7
   openIssue: 0
-  commit: 7391
+  commit: 7419
 ---
 path: /home/runner/.x-repo/github.com/arimxyer/models
-collectedAt: 2026-09-07T05:37:10Z
+collectedAt: 2026-09-07T19:02:59Z
 loc:
   Json:
-    code: 70245
+    code: 70604
     comments: 0
     blanks: 0
     files: 21
@@ -132,7 +132,7 @@ loc:
     blanks: 412
     files: 22
 total:
-  code: 109468
+  code: 109827
   comments: 4848
   blanks: 4520
   files: 137
@@ -140,7 +140,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T05:37:11+00:00
+  collectedAt: 2026-09-07T19:02:59+00:00
   platform:
     darwin/arm64:
       name:  models-aarch64-apple-darwin.tar.gz
