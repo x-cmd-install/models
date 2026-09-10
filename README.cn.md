@@ -12,13 +12,13 @@ TUI and CLI for browsing models.dev, benchmarks, coding agents, and statuses for
 x install models
 ```
 
-## 代码规模
+## 代码洞察
 
-合计: **109,557** 行代码（覆盖前 5 种语言、共 **109** 个文件）。
+合计: **109,590** 行代码（覆盖前 5 种语言、共 **109** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Json | 70,401 | 0 | 0 | 21 |
+| Json | 70,434 | 0 | 0 | 21 |
 | Rust | 38,500 | 1,859 | 3,888 | 78 |
 | Toml | 223 | 33 | 48 | 4 |
 | TypeScript | 182 | 23 | 42 | 5 |
@@ -42,7 +42,7 @@ x install models
 
 ## 累计统计
 
-- **发布数**: 46 · **已合并 PR**: 38 · **开放 PR**: 0 · **已关闭 issue**: 7 · **开放 issue**: 0 · **提交数**: 7494
+- **发布数**: 46 · **已合并 PR**: 38 · **开放 PR**: 0 · **已关闭 issue**: 7 · **开放 issue**: 0 · **提交数**: 7495
 
 ## 最近活动
 
@@ -87,4 +87,4 @@ models 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T20:43:14Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T23:12:08Z._
