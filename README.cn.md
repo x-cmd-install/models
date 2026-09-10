@@ -4,13 +4,25 @@
 
 TUI and CLI for browsing models.dev, benchmarks, coding agents, and statuses for AI providers.
 
-![models](https://repo.x-cmd.io/models.svg)
+![models](https://repo.x-cmd.io/models.svg?lang=zh)
 
 ## 安装
 
 ```sh
 x install models
 ```
+
+## 代码规模
+
+合计: **109,557** 行代码（覆盖前 5 种语言、共 **109** 个文件）。
+
+| 语言 | 代码 | 注释 | 空行 | 文件数 |
+|------|-----:|-----:|-----:|------:|
+| Json | 70,401 | 0 | 0 | 21 |
+| Rust | 38,500 | 1,859 | 3,888 | 78 |
+| Toml | 223 | 33 | 48 | 4 |
+| TypeScript | 182 | 23 | 42 | 5 |
+| Css | 92 | 3 | 9 | 1 |
 
 ## 源代码
 
@@ -23,7 +35,6 @@ x install models
 - **最新版本**: `v0.14.1` (2026-08-28)
 - **最近提交**: 2026-09-10
 - **Release 含资产**: 10 个
-- **发布时间**: 2026-08-28T18:14:35Z
 
 ## 流行度
 
@@ -31,27 +42,41 @@ x install models
 
 ## 累计统计
 
-- **发布数**: 46 · **已合并 PR**: 38 · **开放 PR**: 0 · **已关闭 issue**: 7 · **开放 issue**: 0 · **提交数**: 7488
+- **发布数**: 46 · **已合并 PR**: 38 · **开放 PR**: 0 · **已关闭 issue**: 7 · **开放 issue**: 0 · **提交数**: 7494
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 1 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-12 | 1 | 0 | 0 | 0 | 0 | 0 |
 | 90d | 2026-06-12 | 7 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-14 | 15 | 0 | 0 | 0 | 0 | 0 |
 | 360d | 2025-09-15 | 46 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-09-20 | 46 | 0 | 0 | 0 | 0 | 0 |
 
-## 代码规模
+## Release 资产
 
-合计: **109,772** 行代码（覆盖前 5 种语言、共 **109** 个文件）。
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [models-aarch64-apple-darwin.tar.gz](https://github.com/arimxyer/models/releases/download/v0.14.1/models-aarch64-apple-darwin.tar.gz) | 2.9 MiB | `native/darwin/arm64` |
+| [models-aarch64-unknown-linux-gnu.tar.gz](https://github.com/arimxyer/models/releases/download/v0.14.1/models-aarch64-unknown-linux-gnu.tar.gz) | 3.2 MiB | `native/linux/arm64/glibc` |
+| [models-x86_64-apple-darwin.tar.gz](https://github.com/arimxyer/models/releases/download/v0.14.1/models-x86_64-apple-darwin.tar.gz) | 3.1 MiB | `native/darwin/x64` |
+| [models-x86_64-pc-windows-msvc.zip](https://github.com/arimxyer/models/releases/download/v0.14.1/models-x86_64-pc-windows-msvc.zip) | 3.0 MiB | `native/win/x64` |
+| [models-x86_64-unknown-linux-gnu.tar.gz](https://github.com/arimxyer/models/releases/download/v0.14.1/models-x86_64-unknown-linux-gnu.tar.gz) | 3.4 MiB | `native/linux/x64/glibc` |
+| [modelsdev-0.14.1-1.aarch64.rpm](https://github.com/arimxyer/models/releases/download/v0.14.1/modelsdev-0.14.1-1.aarch64.rpm) | 2.6 MiB | `runtime/rpm/aarch64` |
+| [modelsdev-0.14.1-1.x86_64.rpm](https://github.com/arimxyer/models/releases/download/v0.14.1/modelsdev-0.14.1-1.x86_64.rpm) | 2.7 MiB | `runtime/rpm/x86_64` |
+| [modelsdev_0.14.1-1_amd64.deb](https://github.com/arimxyer/models/releases/download/v0.14.1/modelsdev_0.14.1-1_amd64.deb) | 2.5 MiB | `runtime/deb/amd64` |
+| [modelsdev_0.14.1-1_arm64.deb](https://github.com/arimxyer/models/releases/download/v0.14.1/modelsdev_0.14.1-1_arm64.deb) | 2.2 MiB | `runtime/deb/arm64` |
+| [SHA256SUMS](https://github.com/arimxyer/models/releases/download/v0.14.1/SHA256SUMS) | 895 B | `other` |
 
-| 语言 | 代码 | 注释 | 空行 | 文件数 |
-|------|-----:|-----:|-----:|------:|
-| Json | 70,616 | 0 | 0 | 21 |
-| Rust | 38,500 | 1,859 | 3,888 | 78 |
-| Toml | 223 | 33 | 48 | 4 |
-| TypeScript | 182 | 23 | 42 | 5 |
-| Css | 92 | 3 | 9 | 1 |
+## 发行版状态
+
+在 [repology.org](https://repology.org/project/models) 上共有 **4** 个发行版报告此项目。**3** 个 ✅ 已是最新上游版本，**0** 个 ⚠️ 使用旧版本。
+
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
+| Homebrew | `0.14.1` | ✅ latest |
 
 ## 改进这些数据
 
@@ -62,4 +87,4 @@ models 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T05:34:57Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T20:43:14Z._
