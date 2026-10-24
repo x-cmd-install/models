@@ -14,11 +14,11 @@ x install models
 
 ## Code insight
 
-Total: **112,846** lines of code across **109** files in the top 5 languages.
+Total: **112,907** lines of code across **109** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Json | 73,690 | 0 | 0 | 21 |
+| Json | 73,751 | 0 | 0 | 21 |
 | Rust | 38,500 | 1,859 | 3,888 | 78 |
 | Toml | 223 | 33 | 48 | 4 |
 | TypeScript | 182 | 23 | 42 | 5 |
@@ -33,7 +33,7 @@ Total: **112,846** lines of code across **109** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.14.1` (2026-08-28)
-- **Last commit**: 2026-10-23
+- **Last commit**: 2026-10-24
 - **Assets in release**: 10
 
 ## Popularity
@@ -42,18 +42,18 @@ Total: **112,846** lines of code across **109** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 46 · **Merged PRs**: 38 · **Open PRs**: 4 · **Closed issues**: 7 · **Open issues**: 4 · **Commits**: 8385
+- **Releases**: 46 · **Merged PRs**: 38 · **Open PRs**: 4 · **Closed issues**: 7 · **Open issues**: 4 · **Commits**: 8408
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-23 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-24 | 1 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-25 | 1 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-26 | 10 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-10-28 | 46 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-11-02 | 46 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-09-24 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-25 | 1 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-26 | 1 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-04-27 | 10 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-10-29 | 46 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-11-03 | 46 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -87,4 +87,4 @@ Install metadata for models lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261023.yml` · 2026-10-23T05:26:51Z._
+_Snapshot: `data/card/261024.yml` · 2026-10-24T05:17:37Z._
